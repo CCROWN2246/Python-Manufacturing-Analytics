@@ -1,2 +1,2 @@
 # Python-Manufacturing-Analytics
-Full CRISP-DM process for Intelligent Manufacturing Data Predictions and Insights
+Using a synthesized dataset from Kaggle, I went through the entire CRISP-DM process...only to find that the data was overly simplified (from how it was made - for pratice purposes) and had no discernable patterns other than 1 "fake" variable which was just calculated by the values of two other variables. Once I took this variable out (just for the practice of digging deeper for harder-to-find insights) it turned out that for models as simple as linear regression to as advanced as XGBoost - there were no other relationships in the data. It was good practice but not a project that yielded great business recommendations. 
